@@ -1,1 +1,1 @@
-# webpackTemplate
+# GULPTemplate
