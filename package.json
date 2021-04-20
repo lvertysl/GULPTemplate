@@ -22,8 +22,12 @@
     "jquery": "^3.5.1"
   },
   "dependencies": {
+<<<<<<< HEAD
     "gulp-scss": "^1.4.0",
     "node": "^14.16.0",
     "node-sass": "^4.14.1"
+=======
+    "gulp-scss": "^1.4.0"
+>>>>>>> 266673335eea4fd891ba3b056f81d09e7af2905f
   }
 }

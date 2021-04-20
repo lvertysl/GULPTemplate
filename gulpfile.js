@@ -124,4 +124,8 @@ exports.cleanimg = cleanimg;
 exports.build = series(cleandist, styles, scripts, images, buildcopy);
 
 // Экспортируем дефолтный таск с нужным набором функций
+<<<<<<< HEAD
 exports.default = parallel(styles, scripts, images, browsersync, startwatch);
+=======
+exports.default = parallel(styles, scripts, browsersync, startwatch);
+>>>>>>> 266673335eea4fd891ba3b056f81d09e7af2905f
